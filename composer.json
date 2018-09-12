@@ -1,0 +1,17 @@
+{
+    "name": "kcarwile/autocomplete",
+    "description": "Basic Autocomplete Demo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kevin Carwile",
+            "email": "kcarwile@gmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+		  "KCarwile\\Autocomplete\\": "classes/"
+		}
+	},
+    "require": {}
+}
