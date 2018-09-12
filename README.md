@@ -8,7 +8,7 @@ Execute the `cli.php` script from the command line.
 $ php php.cli
 ```
 
-Enter the command sequence.
+Enter/paste/pipe the command sequence.
 
 ## Run tests
 
